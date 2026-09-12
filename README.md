@@ -1,8 +1,6 @@
 # MYTHOS-LOREPACK-FACTORY
 LOREPACK FACTORY Stand alone Module
 
-# MYTHOS LOREPACK FACTORY
-
 **Portable LorePack generation, storage, retrieval, import, export, and graph tooling for MythOS.**
 
 **Status:** Development / Extraction Phase  
